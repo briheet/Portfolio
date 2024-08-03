@@ -2,7 +2,7 @@ import { Container, Box, Heading } from "@chakra-ui/react"
 const Page = () => {
   return (
     <Container>
-      <Box borderRadius="lg" bg="red" p={3} mb={6} align="center">
+      <Box borderRadius="lg" bg="teal" p={3} mb={6} align="center">
         Hello, I&apos;m a full-stack developer based in delhi, India!
       </Box>
 
@@ -11,7 +11,6 @@ const Page = () => {
           <Heading as="h2" variant="page-title">
             Briheet Singh Yadav
           </Heading>
-          <p>Aizenn</p>
         </Box>
       </Box>
     </Container>
